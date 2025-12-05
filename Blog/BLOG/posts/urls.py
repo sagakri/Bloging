@@ -1,3 +1,4 @@
+
 from django.urls import path
 from .views import PostListView, PostDetailView, PostSearchView
 from .feeds import LatestPostsFeed
